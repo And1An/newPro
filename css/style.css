@@ -263,7 +263,7 @@ body {
 
 .audio {
     /* position: relative; */
-    background-image: url(/img/audio__group.jpg);
+    background-image: url(./img/audio__group.jpg);
     background-repeat: no-repeat;
     background-position: bottom center;
     background-size: cover;
