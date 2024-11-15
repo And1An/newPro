@@ -264,6 +264,7 @@ body {
 .audio {
     /* position: relative; */
     background-image: url(../img/man__musik.jpg);
+    background-color: darkgray;
     background-repeat: no-repeat;
     background-position: bottom center;
     background-size: cover;
