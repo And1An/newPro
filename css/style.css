@@ -360,6 +360,18 @@ body {
 }
 
 
+.menu__link:hover{
+    
+    color: grey;
+  
+
+   
+}
+.btn:hover{
+    background-color: #777;
+}
+
+
 @media (max-width: 1469px) {
 
     .header__content-images img {
